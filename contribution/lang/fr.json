@@ -6469,7 +6469,7 @@
  	 	 	"eng": "Limited addition till ${date} (end in ${relative})"
  	 	},
  	 	"permanentDescription": {
- 	 	 	"trans": "Ce titre n'expirera jamais. \\nIl reste avec ton compte pour toujours.",
+ 	 	 	"trans": "Ce titre n'expirera jamais. \\nIl restera avec ton compte pour toujours.",
  	 	 	"eng": "This title will never expire.\\nIt stays with your account forever."
  	 	}
  	},
@@ -6478,7 +6478,7 @@
  	 	 	"vars": [
  	 	 	 	"tierName"
  	 	 	],
- 	 	 	"trans": "Ceci est un exemple de bannière niveau ${tierName}",
+ 	 	 	"trans": "Ceci est un exemple de bannière de niveau ${tierName}",
  	 	 	"eng": "example chat frame of ${tierName} Tier"
  	 	}
  	},
@@ -6507,25 +6507,25 @@
  	 	},
  	 	"extendButton": {
  	 	 	"activatedTitle": {
- 	 	 	 	"trans": "RÉCOMPENDRE BOOD (activé)",
+ 	 	 	 	"trans": "Augmentatiom de récompense (activé)",
  	 	 	 	"eng": "Reward Boost (Activated)"
  	 	 	},
  	 	 	"notActivatedTitle": {
- 	 	 	 	"trans": "Récompense Boost",
+ 	 	 	 	"trans": "Augmentation de récompense",
  	 	 	 	"eng": "Reward Boost"
  	 	 	},
  	 	 	"activatedDescription": {
  	 	 	 	"vars": [
  	 	 	 	 	"itemName"
  	 	 	 	],
- 	 	 	 	"trans": "Boost activé, vous devez cocher la case à cocher ci-dessous pour l'activer pour cette tâche",
+ 	 	 	 	"trans": "Augmentation activé, vous devez cocher la case i-dessous pour l'activer pour cette tâche",
  	 	 	 	"eng": "Boost activated, you must tick the checkbox below to enable it for this task"
  	 	 	},
  	 	 	"notActivatedDescription": {
  	 	 	 	"vars": [
  	 	 	 	 	"itemName"
  	 	 	 	],
- 	 	 	 	"trans": "Doublez les articles et exp! tandis que la durée et le coût augmenteront de 4 fois",
+ 	 	 	 	"trans": "Doublez les objets et l'expérience! Par contre la durée et le coût quadruplerons"
  	 	 	 	"eng": "Double the items and exp! while the duration and cost will increase by 4 times"
  	 	 	},
  	 	 	"activate": {
@@ -6533,7 +6533,7 @@
  	 	 	 	"eng": "Boost now"
  	 	 	},
  	 	 	"enableBoost": {
- 	 	 	 	"trans": "Activer la récompense Boost",
+ 	 	 	 	"trans": "Activer l'augmentation de récompense",
  	 	 	 	"eng": "Enable reward boost"
  	 	 	}
  	 	},
