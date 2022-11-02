@@ -6373,7 +6373,7 @@
  	},
  	"selectItemModal": {
  	 	"noItems": {
- 	 	 	"trans": "Pas d'articles disponibles",
+ 	 	 	"trans": "Pas d'objets disponibles",
  	 	 	"eng": "No available items"
  	 	}
  	},
@@ -6391,7 +6391,7 @@
  	 	 	 	"trans": "Expulser",
  	 	 	 	"eng": "Kick",
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Expulse d'autres joueurs de ton gang.",
+ 	 	 	 	 	"trans": "Expulse d'autres joueurs de votre gang.",
  	 	 	 	 	"eng": "Kick other players from your gang."
  	 	 	 	}
  	 	 	},
@@ -6430,11 +6430,11 @@
  	 	 	 	"eng": "I am Dexter, the developer of CyberCode Online."
  	 	 	},
  	 	 	"content3": {
- 	 	 	 	"trans": "Faire un don est utile pour soutenir le développement continu du jeu.",
+ 	 	 	 	"trans": "Si tu as un peu d'argent sur le côté, sa aiderais beaucoup si tu pouvais faire un don pour aider au support et développement continuer du jeu"
  	 	 	 	"eng": "If you have some spare change it would be very helpful if you could donate to help with continued support and development of the game."
  	 	 	},
  	 	 	"content4": {
- 	 	 	 	"trans": "S'il te plaît, ne donne que si tu es à l'aise financièrement. Tous les avantages ont été conçus de manière à ce que ce soit équitable pour tous les joueurs et ne donneront pas d'avantages dans le jeu.",
+ 	 	 	 	"trans": "S'il te plaît, donnez uniquement si vous êtes à l'aise financièrement. Tous les avantages sont conçus de manière à ce que ce soit équitable pour tous les joueurs et ne donneront pas d'avantages dans le jeu.",
  	 	 	 	"eng": "Please only donate if you are comfortable, all benefits are designed to be fair for all players and will not give an edge in gameplay."
  	 	 	}
  	 	},
@@ -6465,11 +6465,11 @@
  	 	 	 	"date",
  	 	 	 	"relative"
  	 	 	],
- 	 	 	"trans": "Ajout limité jusqu'à ${date} (se terminer par ${relative})",
+ 	 	 	"trans": "Ajout limité jusqu'au ${date} (se terminer par ${relative})",
  	 	 	"eng": "Limited addition till ${date} (end in ${relative})"
  	 	},
  	 	"permanentDescription": {
- 	 	 	"trans": "Ce titre n'expirera jamais. \\nIl reste avec ton compte pour toujours.",
+ 	 	 	"trans": "Ce titre n'expirera jamais. \\nIl reste avec votre compte pour toujours.",
  	 	 	"eng": "This title will never expire.\\nIt stays with your account forever."
  	 	}
  	},
@@ -6478,7 +6478,7 @@
  	 	 	"vars": [
  	 	 	 	"tierName"
  	 	 	],
- 	 	 	"trans": "Ceci est un exemple de bannière niveau ${tierName}",
+ 	 	 	"trans": "Ceci est un exemple d'une bannière de niveau ${tierName}",
  	 	 	"eng": "example chat frame of ${tierName} Tier"
  	 	}
  	},
@@ -6497,7 +6497,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"itemName"
  	 	 	 	],
- 	 	 	 	"trans": "Réduire le temps nécessaire à l'action de 40%, empilable jusqu'à 80%",
+ 	 	 	 	"trans": "Réduire le temps nécessaire pour l'action de 40%, empilable jusqu'à 80%",
  	 	 	 	"eng": "Reduce time needed for action by 40%, stackable upto 80%"
  	 	 	},
  	 	 	"activate": {
@@ -6507,25 +6507,25 @@
  	 	},
  	 	"extendButton": {
  	 	 	"activatedTitle": {
- 	 	 	 	"trans": "RÉCOMPENDRE BOOD (activé)",
+ 	 	 	 	"trans": "Augmentation des récompenses (activé)",
  	 	 	 	"eng": "Reward Boost (Activated)"
  	 	 	},
  	 	 	"notActivatedTitle": {
- 	 	 	 	"trans": "Récompense Boost",
+ 	 	 	 	"trans": "Augmentation des récompenses",
  	 	 	 	"eng": "Reward Boost"
  	 	 	},
  	 	 	"activatedDescription": {
  	 	 	 	"vars": [
  	 	 	 	 	"itemName"
  	 	 	 	],
- 	 	 	 	"trans": "Boost activé, vous devez cocher la case à cocher ci-dessous pour l'activer pour cette tâche",
+ 	 	 	 	"trans": "Augmentation temporaire activé, vous devez cocher la case ci-dessous pour l'activer pour cette tâche",
  	 	 	 	"eng": "Boost activated, you must tick the checkbox below to enable it for this task"
  	 	 	},
  	 	 	"notActivatedDescription": {
  	 	 	 	"vars": [
  	 	 	 	 	"itemName"
  	 	 	 	],
- 	 	 	 	"trans": "Doublez les articles et exp! tandis que la durée et le coût augmenteront de 4 fois",
+ 	 	 	 	"trans": "Doublez les objets et l'expérience! Par contre la durée et le coût quadruplerons",
  	 	 	 	"eng": "Double the items and exp! while the duration and cost will increase by 4 times"
  	 	 	},
  	 	 	"activate": {
@@ -6533,7 +6533,7 @@
  	 	 	 	"eng": "Boost now"
  	 	 	},
  	 	 	"enableBoost": {
- 	 	 	 	"trans": "Activer la récompense Boost",
+ 	 	 	 	"trans": "Activer l'augmentation de récompense,
  	 	 	 	"eng": "Enable reward boost"
  	 	 	}
  	 	},
